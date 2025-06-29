@@ -1,6 +1,6 @@
 # 🛍️ Online Retail Sales Analysis
 
-This project analyzes online retail data to uncover trends in revenue, customer value, country performance, and expansion opportunities. It was designed to answer four strategic business questions from the CEO and CMO.
+This project analyzes online retail data to uncover trends in revenue, customer value, country performance, and expansion opportunities using Power Bi. It was designed to answer four strategic business questions from the CEO and CMO.
 
 ## 📊 Project Objectives
 - Understand monthly revenue trends over 2011.
