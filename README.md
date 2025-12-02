@@ -1,53 +1,29 @@
-# 🛍️ Online Retail Sales Analysis
+## Online Retail Sales Analysis
 
-This project analyzes online retail data to uncover trends in revenue, customer value, country performance, and expansion opportunities using Power Bi. It was designed to answer four strategic business questions from the CEO and CMO.
+This project analyzes online retail data to identify trends in revenue, top customers, and high-demand countries using Power BI. The analysis addresses key strategic questions from the CEO and CMO.
 
-## 📊 Project Objectives
-- Understand monthly revenue trends over 2011.
-- Identify top-performing countries outside the UK.
-- Highlight top customers by revenue.
-- Pinpoint countries with the highest product demand.
+## Objectives
 
-## 🧼 Data Cleaning Process
-- Removed rows where `Quantity < 1` and `UnitPrice < $0`.
-- Created a `Revenue` column as `Quantity × UnitPrice`.
-- Cleaned data was used for visualizations and insights.
+Track monthly revenue trends.
 
-## 👔 CEO Question 1: Monthly Revenue Trends
-**Tool Used**: Line Chart  
-- Steady growth throughout the year.  
-- Peak in **November ($1.5M)**.  
-- Decline in December due to early shopping behavior.  
-> 📌 *Insight:* Clear seasonality — strong Q4 performance.
+Identify top-performing countries outside the UK.
 
-## 🌍 CMO Question 2: Top Countries by Revenue
-**Tool Used**: Clustered Column Chart  
-- Netherlands and EIRE lead with **$280K+ revenue**.  
-- Western Europe shows consistent strength.  
-> 📌 *Insight:* Focus on Western Europe for expansion.
+Highlight top customers by revenue.
 
-## 👥 CMO Question 3: Top Customers by Revenue
-**Tool Used**: Area Chart  
-- Top 2 customers (IDs 14646 & 18102) contribute **$280K+** each.  
-- Significant drop-off after the top 3.  
-> 📌 *Insight:* Prioritize high-value customers for loyalty programs.
+Identify countries with highest product demand.
 
-## 🌎 CEO Question 4: Product Demand by Country
-**Tool Used**: Clustered Column Chart  
-- Netherlands, EIRE, Germany lead in demand.  
-- Australia and some Asian countries show potential.  
-> 📌 *Insight:* Target Western Europe and Australia for growth.
+## Key Insights
 
-## 🚀 Strategic Takeaways
-- Strong Q4 seasonality – ideal for campaign planning.
-- Top 3 countries dominate both revenue and demand.
-- High customer concentration — retention is key.
-- Visuals help balance margin (revenue) vs. volume (demand).
+Revenue peaks in November, showing strong Q4 seasonality.
 
-## 📁 Files Included
-- `Retail_Analysis_Presentation.pdf` — presentation summary
-- `cleaned_data.xlsx` — cleaned dataset
-- `README.md` — this documentation
+Netherlands and EIRE lead in revenue; Western Europe is a key growth area.
 
-## 🙌 Thank You
-This analysis forms a strong foundation for strategic planning, customer targeting, and international expansion efforts.
+Top customers contribute a large portion of revenue; retention is critical.
+
+Product demand is highest in Western Europe, with potential in Australia.
+
+## Files Included
+
+Retail_Analysis_Presentation.pdf — summary presentation
+
+cleaned_data.xlsx — cleaned dataset
