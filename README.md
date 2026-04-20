@@ -14,11 +14,18 @@ Identify countries with highest product demand.
 
 ## Key Insights
 
-Revenue peaks in November, showing strong Q4 seasonality.
-
-Netherlands and EIRE lead in revenue; Western Europe is a key growth area.
-
-Top customers contribute a large portion of revenue; retention is critical.
-
-Product demand is highest in Western Europe, with potential in Australia.
+Strong Seasonality: Revenue peaks in Q4 (Sep–Nov), with November reaching ~1.15M, while February and April show notable dips.
+High Growth Volatility: Largest increase occurs in September (+47%), while December drops ~55%, indicating post-peak slowdown.
+Top Markets (Excl. UK):
+Netherlands (~285K revenue, ~200K units) leads
+Followed by EIRE (~265K) and Germany (~229K)
+Australia (~138K) is the strongest non-European market
+Customer Concentration:
+Customer 14646 (~280K revenue) is the top contributor
+Top customers drive a significant share of total revenue
+Clear repeat purchasing patterns observed
+Product-Driven Demand:
+High-performing items like Rabbit Night Light and Spaceboy Lunch Box consistently drive sales across regions
+Expansion Opportunity:
+Strong demand in Europe (NL, Germany, France) and Australia indicates high potential for regional expansion
 
