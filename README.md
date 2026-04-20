@@ -22,8 +22,3 @@ Top customers contribute a large portion of revenue; retention is critical.
 
 Product demand is highest in Western Europe, with potential in Australia.
 
-## Files Included
-
-Retail_Analysis_Presentation.pdf — summary presentation
-
-cleaned_data.xlsx — cleaned dataset
